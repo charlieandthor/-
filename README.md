@@ -1,3 +1,0 @@
-# 16th-mathematical-modeling-contest
-B题数据文件及代码
-balabalabbblllbabababablalalalala
