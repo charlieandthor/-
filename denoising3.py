@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pywt
 
-data = pd.read_csv("secondary_data_replace_miss_numOnly.csv", encoding='utf-8')#, index_col=0)
+data = pd.read_csv("secondary_data_repMissValNor_numOnly.csv", encoding='utf-8')
 # 针对第三列数值（共三列）
 data = data.values[:, 2]
 index = list(range(1, 61070))
