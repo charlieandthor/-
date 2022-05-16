@@ -48,5 +48,3 @@ KNIME绘制直方图：[XiaoSai_B_histogram.zip](https://github.com/charlieandth
 [secondary_data_repVal_p.csv](https://github.com/charlieandthor/16th-mathematical-modeling-contest/blob/main/secondary_data_repVal_p.csv)  
 [secondary_data_repVal_e.csv](https://github.com/charlieandthor/16th-mathematical-modeling-contest/blob/main/secondary_data_repVal_e.csv)  
 [XiaoSai_B_T5.py](https://github.com/charlieandthor/16th-mathematical-modeling-contest/blob/main/XiaoSai_B_T5.py)
- 
-
