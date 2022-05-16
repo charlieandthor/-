@@ -32,9 +32,9 @@ KNIME绘制直方图：[XiaoSai_B_histogram.zip](https://github.com/charlieandth
 7.	构建蘑菇有毒无毒的分类与识别模型  
 独热编码：[XiaoSai_B_Onehot.py](https://github.com/charlieandthor/16th-mathematical-modeling-contest/blob/main/XiaoSai_B_Onehot.py)    
 随机森林：  
-[repVal_onehot.csv](https://github.com/charlieandthor/16th-mathematical-modeling-contest/blob/main/repVal_onehot.csv)
-[repVal_norm_onehot.csv](https://github.com/charlieandthor/16th-mathematical-modeling-contest/blob/main/repVal_norm_onehot.csv)
-[repVal_denoising_onehot.csv](https://github.com/charlieandthor/16th-mathematical-modeling-contest/blob/main/repVal_denoising_onehot.csv)
+[repVal_onehot.csv](https://github.com/charlieandthor/16th-mathematical-modeling-contest/blob/main/repVal_onehot.csv)  
+[repVal_norm_onehot.csv](https://github.com/charlieandthor/16th-mathematical-modeling-contest/blob/main/repVal_norm_onehot.csv)  
+[repVal_denoising_onehot.csv](https://github.com/charlieandthor/16th-mathematical-modeling-contest/blob/main/repVal_denoising_onehot.csv)  
 [XiaoSai_B_RF.py](https://github.com/charlieandthor/16th-mathematical-modeling-contest/blob/main/XiaoSai_B_RF.py)  
 
 8.	对相关因素的重要性进行排序：  
