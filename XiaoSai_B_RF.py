@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 from sklearn.model_selection import cross_val_score
 from sklearn.ensemble import RandomForestClassifier
-from PlotRandomForestTrees import plot_RF_trees
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 from sklearn import tree
