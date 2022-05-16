@@ -1,5 +1,5 @@
 ﻿使用的软件：Python, [KNIME](https://www.knime.com/)    
-Python中需要安装的第三方库: pandas, matplotlib, numpy, seaborn, scipy, scikit-learn, PyWavelets,  
+Python中需要安装的第三方库: pandas, matplotlib, numpy, seaborn, scipy, scikit-learn, PyWavelets  
 
 **由于数据文件输入输出问题，建议将数据文件与代码文件放置在同一路径下**
 
