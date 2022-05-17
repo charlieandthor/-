@@ -17,7 +17,7 @@ Python中需要安装的第三方库: pandas, matplotlib, numpy, seaborn, scipy,
 [denoising1.py](https://github.com/charlieandthor/16th-mathematical-modeling-contest/blob/main/denoising1.py)    
 [denoising2.py](https://github.com/charlieandthor/16th-mathematical-modeling-contest/blob/main/denoising2.py)    
 [denoising3.py](https://github.com/charlieandthor/16th-mathematical-modeling-contest/blob/main/denoising3.py)    
-输出的数据文件：[secondary_data_repVal_denoising.py](https://github.com/charlieandthor/16th-mathematical-modeling-contest/blob/main/secondary_data_repVal_denoising.csv)  
+输出的数据文件：[secondary_data_repVal_denoising.csv](https://github.com/charlieandthor/16th-mathematical-modeling-contest/blob/main/secondary_data_repVal_denoising.csv)  
 
 5.	分析蘑菇各指标的基本特征:  
 KNIME绘制直方图：[XiaoSai_B_histogram.zip](https://github.com/charlieandthor/16th-mathematical-modeling-contest/blob/main/XiaoSai_B_histogram.zip) （将该压缩包解压后放入KNIME工作目录即可）  
